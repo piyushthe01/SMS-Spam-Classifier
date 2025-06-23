@@ -47,7 +47,7 @@ The notebook performs:
 
 ## 📂 Repository Structure
 
-├── streamlit_app.py # Streamlit web app
+├── app.py # Streamlit web app
 ├── model.pkl # Trained classifier
 ├── vectorizer.pkl # TF-IDF vectorizer
 ├── requirements.txt # Python dependencies
